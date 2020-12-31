@@ -1,0 +1,8 @@
+prefix=/home/mpuig/gopigo_rbpi/ros/gopigo_rbpi_ws/install
+
+Name: gopigo3_node
+Description: Description of gopigo3_node
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
