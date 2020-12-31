@@ -1,0 +1,8 @@
+prefix=/home/mpuig/gopigo_rbpi/ros/rbpi_rubot_ws/devel
+
+Name: hello_gopigo3
+Description: Description of hello_gopigo3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

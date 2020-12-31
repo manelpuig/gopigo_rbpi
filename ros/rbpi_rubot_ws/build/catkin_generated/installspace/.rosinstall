@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mpuig/gopigo_rbpi/ros/rbpi_rubot_ws/install/setup.sh
